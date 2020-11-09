@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Google Books</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="author">Author</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="page_count">Page Count</string>
+    <string name="publish_date">PublishDate</string>
+    <string name="pages"> pages</string>
+    <string name="noTitle">This book does not have a title</string>
+    <string name="noSubtitle">This book does not have a subtitle</string>
+    <string name="noAuthor">This book does not have a author</string>
+    <string name="noDescription">This book does not have a description</string>
+    <string name="noPublishDate">Publish date does not available</string>
+    <string name="noPagesCount">Pages count does not available</string>
+    <string name="emptyField">Input field cannot be empty</string>
+    <string name="search">Search</string>
+    <string name="noLink">Url is empty</string>
+    <string name="wrong">Somethings goes wrong</string>
+</resources>
